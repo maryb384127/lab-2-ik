@@ -84,7 +84,7 @@ they have on the resulting robot arm poses.
 2. Can you get your robot end effector to the maximum range you estimated in Q1,
 along any of the x/y/z axes? Why or why not?
 
-No, the primary cause was due to joint rotation restrictions. The closest I could get was around 0.7 meters on the x-axis. The joints with the greatest restriction tended to be the wrist components.
+
 
 3. Write code to find and visualize the 3D volume of points that are reachable
 by the robot arm. Hints: the forward kinematics function gives you the actual
